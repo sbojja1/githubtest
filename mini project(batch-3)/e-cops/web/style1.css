@@ -1,0 +1,77 @@
+/* 
+    Document   : style1
+    Created on : Jan 1, 2002, 3:36:03 AM
+    Author     : Admin
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+
+BODY {
+	FONT-SIZE: 10px;
+	COLOR: #08150E;
+	FONT-FAMILY: verdana, arial;
+	LETTER-SPACING: 0px;
+}
+TD {
+	FONT-SIZE: 10px;
+	COLOR: #08150E;
+	FONT-FAMILY: verdana, arial;
+	LETTER-SPACING: 0px;
+}
+A:link {
+	FONT-SIZE: 10px;
+	COLOR: #ffffff;
+	FONT-FAMILY: verdana, arial;
+	TEXT-DECORATION: none;
+}
+A:hover {
+	FONT-SIZE: 10px;
+	COLOR: #ffffff;
+	TEXT-DECORATION: underline;
+}
+A:visited {
+	COLOR: #ffffff;
+	FONT-SIZE: 10px;
+	TEXT-DECORATION: none;
+}
+
+a.f{color:#ffffff; text-decoration:none; FONT-SIZE: 10px}
+a.f:hover{color:#ffffff; text-decoration:underline; FONT-SIZE: 10px;}
+a.f:visited{color:#ffffff; text-decoration:none; FONT-SIZE: 10px;}
+
+a.t{color:#D1E1FD; text-decoration:none; FONT-SIZE: 10px; font-weight:bold;}
+a.t:hover{color:#D1E1FD; text-decoration:underline; FONT-SIZE: 10px; font-weight:bold;}
+a.t:visited{color:#D1E1FD; text-decoration:none; FONT-SIZE: 10px; font-weight:bold;}
+
+a.r{color:#C94154; text-decoration:none; FONT-SIZE: 10px; font-weight:bold;}
+a.r:hover{color:#C94154; text-decoration:underline; FONT-SIZE: 10px; font-weight:bold;}
+a.r:visited{color:#C94154; text-decoration:none; FONT-SIZE: 10px; font-weight:bold;}
+
+.tt {
+	padding-top:10px;
+}
+.w {
+	color: #ffffff;
+	font-size: 10px;
+}
+.w2 {
+	color: #ffffff;
+	font-size: 12px;
+	font-weight: bold;
+}
+.b {
+	color: #000000;
+	font-size: 12px;
+	font-weight: bold;
+}
+.g {
+	color: #596C62;
+	font-size: 10px;
+}
+
